@@ -4,14 +4,4 @@ to install this lib write this code in cmd :
      pip install cowsay
 cow say characters:
      ['beavis', 'cheese', 'cow', 'daemon', 'dragon', 'fox', 'ghostbusters', 'kitty', 'meow', 'miki', 'milk', 'pig', 'stegosaurus', 'stimpy', 'trex', 'turkey', 'turtle', 'tux']
-cowsay example :
-       ___________
-     < Hello World >
-       ===========
-                     \
-                      \
-                        ^__^
-                        (oo)\_______
-                        (__)\       )\/\
-                            ||----w |
-                            ||     ||
+
